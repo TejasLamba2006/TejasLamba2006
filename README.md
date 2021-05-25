@@ -6,7 +6,13 @@
 
 <p align="center"> <img src="https://discord.c99.nl/widget/theme-3/502406420453654529.png" alt="Discord" /> </p>
 
-
+### Projects
+ - [OP Bot](https://op.tejas1794.repl.co/)
+ - [Multi-Guil Suggestion Bot](https://github.com/TeamRainbowDevs/Suggestion-Bot)
+ - [Anti-Raid Bot](https://github.com/TeamRainbowDevs/antiraid-discord)
+ - [Multi-Guild Ghost Ping Detector Bot](https://github.com/TeamRainbowDevs/Ghost-ping-detector-bot)
+ - [Advanced Music Bot](https://github.com/TeamRainbowDevs/advanced-music-bot)
+ - [Status Checker and Role Adder](https://github.com/TeamRainbowDevs/discord-status-checker-and-role-adder)
 
 
 
