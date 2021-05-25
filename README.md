@@ -16,7 +16,7 @@
 
 ### Hey i'm Tejas Lamba Gald to see you here! &nbsp;
 
-I am a passionate self-taught programmer from Nepal and my hobby is to code.
+I am a passionate self-taught programmer from India and my hobby is to code.
  - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about anything [here](https://discord.gg/Tccx7F7mMj)
 - 🥅 2021 Goals: make some awesome Discord Bots
