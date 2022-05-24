@@ -1,7 +1,10 @@
 ### Hi there, I'm Tejas Lamba! 👋
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TajuModding" alt="yus" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=TajuModding" alt="php" /> </p>
 <p align='center'> <a href="https://discord.gg/Tccx7F7mMj">
-  <img align="center" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="center" alt="Discord Server" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a> </p>
+<p align='center'> <a href="https://www.instagram.com/the_tejas_lamba/">
+  <img align="center" alt="Instagram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
 </a> </p>
 
 <p align="center"> <img src="https://discord.c99.nl/widget/theme-3/502406420453654529.png" alt="Discord" /> </p>
