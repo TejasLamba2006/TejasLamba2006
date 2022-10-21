@@ -44,6 +44,7 @@ I am a passionate self-taught programmer from India and my hobby is to code.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TajuModding&show_icons=true&layout=compact&hide_border=true&theme=dark" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TajuModding&show_icons=true&theme=dark&line_height=21" alt="legend-js' github stats"/>
  
- 
+ ### ✍️ Random Dev Quote 
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 #### have a great day/night.
