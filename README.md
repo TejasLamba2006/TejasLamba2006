@@ -1,6 +1,6 @@
 ### Hi there, I'm Tejas Lamba! 👋
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TajuModding" alt="php" /> </p>
-<p align='center'> <a href="https://discord.gg/YTnrwsCJzB">
+<p align='center'> <a href="https://api.tejas404.xyz/discord">
   <img align="center" alt="Discord Server" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a> </p>
 <p align='center'> <a href="https://www.instagram.com/the_tejas_lamba/">
