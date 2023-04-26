@@ -23,7 +23,7 @@
 
 I am a passionate self-taught programmer from India and my hobby is to code.
  - 🌱 I’m currently learning JavaScript
-- 💬 Ask me about anything [here](https://discord.gg/Tccx7F7mMj)
+- 💬 Ask me about anything [here]([https://discord.gg/Tccx7F7mMj](https://discord.gg/rainbow-studios-free-codes-869916537610448897))
 - 🥅 2021 Goals: make some awesome Discord Bots
 
 **Languages and Tools:** &nbsp;
