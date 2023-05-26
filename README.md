@@ -7,7 +7,7 @@
   <img align="center" alt="Instagram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
 </a> </p>
 
-<p align="center"> <img src="https://discord.c99.nl/widget/theme-3/502406420453654529.png" alt="Discord" /> </p>
+<p align="center"> <img src="https://discord.c99.nl/widget/theme-3/1076942240791928875.png" alt="Discord" /> </p>
 
 ### Projects
  - [Tejas404 API](https://api.tejas404.xyz/)
@@ -23,8 +23,8 @@
 
 I am a passionate self-taught programmer from India and my hobby is to code.
  - 🌱 I’m currently learning JavaScript
-- 💬 Ask me about anything [here]([https://discord.gg/Tccx7F7mMj](https://discord.gg/rainbow-studios-free-codes-869916537610448897))
-- 🥅 2021 Goals: make some awesome Discord Bots
+- 💬 Ask me about anything [here](https://discord.gg/programmers)
+- 🥅 2023 Goals: make some awesome Discord Bots and sharpen Frontend skills
 
 **Languages and Tools:** &nbsp;
 <p align="center">
@@ -38,7 +38,7 @@ I am a passionate self-taught programmer from India and my hobby is to code.
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasLamba2006&show_icons=true&layout=compact&hide_border=true&theme=dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TejasLamba2006&show_icons=true&theme=dark&line_height=21" alt="legend-js' github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TejasLamba2006&show_icons=true&theme=dark&line_height=21" alt="TejasLamba2006-github-stats' github stats"/>
  
  ### ✍️ Random Dev Quote 
  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
