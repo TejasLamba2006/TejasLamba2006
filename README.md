@@ -25,8 +25,7 @@ I am a passionate self-taught programmer from India and my hobbies are footbll, 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasLamba2006&show_icons=true&layout=compact&hide_border=true&theme=dark" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TejasLamba2006&show_icons=true&theme=dark&line_height=21" alt="TejasLamba2006-github-stats' github stats"/>
-  <br>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TejasLamba2006&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TejasLamba2006&theme=dark&exclude_days=Sun%2CSat"/>
  
  ### ✍️ Random Dev Quote 
  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
