@@ -1,7 +1,5 @@
 ### Hi there, I'm Tejas Lamba! 👋
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TejasLamba2006" alt="php" /> </p>
-<p align='center'> <a href="https://tejaslamba.xyz/">
-  <img align="center" alt="Discord Server" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a> </p>
 <p align='center'> <a href="https://www.instagram.com/the_tejas_lamba/">
   <img align="center" alt="Instagram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
@@ -14,7 +12,7 @@
 ### Hey i'm Tejas Lamba Gald to see you here! &nbsp;
 
 I am a passionate self-taught programmer from India and my hobbies are footbll, chess and yes CODING.
- - 🌱 I’m currently learning JavaScript
+ - 🌱 I’m currently learning Java
 - 💬 Ask me about anything `@djs.js`
 - 🥅 2023 Goals: make some awesome Discord Bots and sharpen Frontend skills
 
