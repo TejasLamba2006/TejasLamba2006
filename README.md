@@ -1,31 +1,43 @@
-### Hi there, I'm Tejas Lamba! 👋
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TejasLamba2006" alt="php" /> </p>
-</a> </p>
-<p align='center'> <a href="https://www.instagram.com/the_tejas_lamba/">
-  <img align="center" alt="Instagram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
-</a> </p>
+# Tejas Lamba | Full Stack Developer
 
-<p align="center"> <img src="https://discord.c99.nl/widget/theme-3/768522270531780681.png" alt="Discord" /> </p>
- 
-<br />
+![Profile Views](https://komarev.com/ghpvc/?username=TejasLamba2006&color=blueviolet&style=flat) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/whotfistejas/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/768522270531780681) [![GitHub followers](https://img.shields.io/github/followers/TejasLamba2006?label=Follow&style=social)](https://github.com/TejasLamba2006)
 
-### Hey i'm Tejas Lamba Gald to see you here! &nbsp;
+## 🚀 About Me
 
-I am a passionate self-taught programmer from India and my hobbies are footbll, chess and yes CODING.
- - 🌱 I’m currently learning Java
-- 💬 Ask me about anything `@djs.js`
-- 🥅 2023 Goals: make some awesome Discord Bots and sharpen Frontend skills
+Passionate self-taught developer from India with a love for creating innovative solutions. When I'm not coding, you can find me playing football, chess, or exploring new technologies.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
- 
+- 🔭 I'm currently working on **advanced Discord bots and web applications**
+- 🌱 I'm learning **TypeScript, React Native, and Cloud Architecture**
+- � Ask me about **JavaScript, Typescript, Node.js, and Discord.js**
+- 🎯 2025 Goals: Contribute to open source and build scalable applications
+- ⚡ Fun fact: I don't use AI to code
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasLamba2006&show_icons=true&layout=compact&hide_border=true&theme=dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TejasLamba2006&show_icons=true&theme=dark&line_height=21" alt="TejasLamba2006-github-stats' github stats"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TejasLamba2006&theme=dark&exclude_days=Sun%2CSat"/>
- 
- ### ✍️ Random Dev Quote 
- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🛠️ Tech Stack
 
-#### have a great day/night.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![NGINX](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+## 🔥 Recent Projects
+
+- [discord-lavalink](https://github.com/TejasLamba2006/discord-lavalink)
+  A lightweight, type-safe library that connects Discord.js bots to Lavalink audio servers with minimal setup and maximum flexibility.
+
+- [musicxmatch-api](https://github.com/TejasLamba2006/musicxmatch-api)
+  musicxmatch-api is an npm package that provides easy access to MusixMatch API endpoints. It supports searching tracks, getting track details, lyrics, artists, albums, and more. This package handles the necessary signing and authentication required by MusixMatch.musicxmatch-api is an npm package that provides easy access to MusixMatch API endpoints. It supports searching tracks, getting track details, lyrics, artists, albums, and more. This package handles the necessary signing and authentication required by MusixMatch.
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasLamba2006&show_icons=true&layout=compact&hide_border=true&theme=tokyonight) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TejasLamba2006&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TejasLamba2006&theme=tokyonight&hide_border=true)
+
+## 💭 Quote of the Day
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+*Let's connect and build something amazing together!*
