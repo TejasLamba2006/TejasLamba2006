@@ -18,7 +18,7 @@ Currently working as a **Fullstack Developer (Remote, US)** while contributing t
 ---
 
 ## ⚙️ Core Stack
-**TypeScript · Node.js · React · PostgreSQL · Prisma · Python · TensorFlow · Docker · Linux**
+**Rust · Node.js · React · PostgreSQL · Prisma · Python · TensorFlow · Docker · Linux**
 
 (I care about depth, not 30 logos.)
 
