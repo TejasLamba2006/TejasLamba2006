@@ -60,7 +60,7 @@ Open source maintenance, hackathon culture, building tools I'd actually use. Cur
 
 ## Get in touch
 
-- Email: tejaslamba06@gmail.com
+- Email: tejas22feb@gmail.com
 - LinkedIn: linkedin.com/in/tejaslamba
 
 ---
