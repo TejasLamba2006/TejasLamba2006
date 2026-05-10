@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=TejasLamba2006&color=blueviolet&style=flat)
+
 # Hey, I'm Tejas
 
 Backend and AI engineer. I build things that work and ship them.
@@ -73,3 +75,8 @@ building, shipping, learning
 $ status
 open to opportunities
 ```
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasLamba2006&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TejasLamba2006&show_icons=true&theme=tokyonight&hide_border=true)
