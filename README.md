@@ -1,100 +1,75 @@
-# Tejas Lamba 👋
-Backend & AI Engineer • TypeScript • Node.js • Systems • Open Source
+# Hey, I'm Tejas
 
-I build production-grade backend systems, AI-powered applications, and developer tools that actually ship to users — not just demos.
+Backend and AI engineer. I build things that work and ship them.
 
-Currently working as a **Fullstack Developer (Remote, US)** while contributing to open source and building scalable automation tools.
-
----
-
-## 📌 Snapshot
-- 🧑‍💻 Fullstack Developer (Remote, US)
-- 🥈 Smart India Hackathon – 2nd Place
-- 🏆 CodeSlayer Winner (NIT Delhi / 10,000+ teams)
-- ⭐ 220+ GitHub stars across projects
-- 📦 Published npm packages used in production
-- ⚡ Focus: Backend systems, AI apps, Dev tooling
+Currently leading development at Rudescore, doing some time at JK Tech, and finishing up a CS degree (AIML specialization, 8.6 CGPA).
 
 ---
 
-## ⚙️ Core Stack
-**Rust · Node.js · React · PostgreSQL · Prisma · Python · TensorFlow · Docker · Linux**
+## What I work with
 
-(I care about depth, not 30 logos.)
+**Languages:** Rust, TypeScript, Python, Java  
+**Backend:** Node.js, PostgreSQL, Prisma  
+**AI/ML:** TensorFlow, some computer vision experiments  
 
----
-
-## 🚀 Featured Work
-
-### 🧠 Viddhivaani — AI Judiciary Assistant
-AI chatbot for judiciary portals  
-React + Node + HuggingFace  
-→ Smart India Hackathon 2nd place
-
-### 🎧 discord-lavalink
-Type-safe Lavalink connector for Discord bots  
-→ 180+ stars  
-→ Production ready WebSocket audio streaming
-
-### 📦 musicxmatch-api
-MusixMatch API wrapper for Node  
-→ Handles signing, auth & scraping edge cases  
-→ Published npm package
-
-### 🛠 depdoctor
-Dependency management CLI  
-→ Safe semver upgrades  
-→ Risk analysis  
-→ CI/CD friendly output
+I care more about knowing things deeply than having a long list of logos.
 
 ---
 
-## 🧩 Currently Building
+## Stuff I've built
 
-### Minecraft Systems & Automation
-- **AdminWatchdog** → staff monitoring & moderation tooling
-- **InfuseSMPReloaded** → custom SMP server core
-- **AuthMeUI** → modern authentication UI plugin
-- **MonsterBoatAI** → AI-driven mob behavior system
-- **smp-core** → scalable plugin foundation
+**depdoctor** — npm package that checks which dependencies you can safely update. Handles npm/yarn/pnpm/bun, semantic versioning, major version warnings. Built it because I got tired of doing this manually.
 
-### AI / Backend
-- Vector search + FAISS pipelines
-- Local LLM workflows (Ollama + LoRA)
-- High-performance APIs with Prisma + PostgreSQL
-- Real-time systems & caching architectures
+**discord-lavalink** — Type-safe library connecting Discord.js to Lavalink audio servers. Wrote it in 2 hours because every existing option was either untyped or overengineered. 180+ stars.
+
+**PokéClassifier** — Next.js app that analyzes your face and matches you with a Pokémon. Used Google Cloud Vision for expression detection and Gemini for personality inference. Has Stripe integration because someone asked for premium.
+
+**Multi-Digit Handwritten Recognition** — CNN-based model that reads handwritten numbers. The segmentation part was trickier than expected.
+
+**musicxmatch-api** — npm wrapper for the MusixMatch API. Someone had to do it.
 
 ---
 
-## 📈 Engineering Philosophy
-- Ship > talk
-- Performance matters
-- Type safety saves time
-- Automate everything
-- If it can scale, design it properly
+## Minecraft stuff
+
+I run a decent chunk of my life on Minecraft servers. Built AdminWatchdog for staff monitoring, InfuseSMPReloaded as a custom SMP core, AuthMeUI for modern authentication UI, and smp-core as a scalable plugin foundation. These are actually running in production.
 
 ---
 
-## 📊 Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasLamba2006&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TejasLamba2006&show_icons=true&theme=tokyonight&hide_border=true)
-![Profile Views](https://komarev.com/ghpvc/?username=TejasLamba2006&color=blueviolet&style=flat)
----
+## Awards and such
 
-## 🤝 Open To
-- Backend / AI internships & roles
-- Open source collaborations
-- Interesting hard problems
+- CodeSlayer 2k25, NIT Delhi — 1st place (beat 10,000+ teams)
+- Smart India Hackathon — 2nd place
+- Hack For Green Bharat — Grand finale at Microsoft
 
 ---
 
-```bash
-> whoami
-Tejas — backend + AI engineer
+## Certifications
 
-> building
-systems that scale
+Cybersecurity stuff from LinkedIn Learning (threat landscape, foundations, Security Copilot). HackerRank badges in JavaScript and Node. IBM courses on project-based learning — actually useful for thinking through problems systematically.
 
-> status
-shipping
+---
+
+## What I'm into
+
+Open source maintenance, hackathon culture, building tools I'd actually use. Currently exploring Rust for backend because the compiler is harsh but honest. Trying to get better at system design and actually understanding databases instead of just using them.
+
+---
+
+## Get in touch
+
+- Email: tejaslamba06@gmail.com
+- LinkedIn: linkedin.com/in/tejaslamba
+
+---
+
+```
+$ whoami
+tejas — backend + ai engineer
+
+$ currently
+building, shipping, learning
+
+$ status
+open to opportunities
 ```
