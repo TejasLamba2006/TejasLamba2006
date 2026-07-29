@@ -77,11 +77,11 @@ I run a decent chunk of my life on Minecraft servers. These are actually running
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TejasLamba2006&show_icons=true&theme=dark&hide_border=true&title_color=7C3AED&text_color=c9d1d9&icon_color=7C3AED&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=TejasLamba2006&show_icons=true&theme=dark&hide_border=true&title_color=7C3AED&text_color=c9d1d9&icon_color=7C3AED&count_private=true)](https://github.com/stats-organization/github-stats-extended)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TejasLamba2006&theme=dark&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasLamba2006&layout=compact&theme=dark&hide_border=true&title_color=7C3AED&text_color=c9d1d9&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=TejasLamba2006&layout=compact&theme=dark&hide_border=true&title_color=7C3AED&text_color=c9d1d9&langs_count=8)](https://github.com/stats-organization/github-stats-extended)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=TejasLamba2006&theme=darkhub&no-bg=true&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
