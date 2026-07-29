@@ -1,8 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=180&section=header&text=Tejas%20Lamba&fontColor=ffffff&fontSize=36&fontAlignY=38&desc=Backend%20%2B%20AI%20Engineer&descAlignY=58&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=180&section=header&text=Tejas%20Lamba&fontColor=ffffff&fontSize=36&fontAlignY=38&desc=backend%20%2B%20ai%20engineer&descAlignY=58&descSize=16)
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=520&lines=Backend+and+AI+engineer;Rust+evangelist+in+training;Minecraft+infra+nerd;I+ship+things+that+work)](https://git.io/typing-svg)
+
+[![Profile views](https://komarev.com/ghpvc/?username=TejasLamba2006&color=7c3aed&style=flat-square&label=profile+views)](https://github.com/TejasLamba2006)
 
 </div>
 
@@ -30,13 +32,6 @@ I care more about knowing things deeply than having a long list of logos on my p
 </div>
 
 ## Stuff I've built
-
-<div align="center">
-
-[![depdoctor](https://github-readme-stats.vercel.app/api/pin/?username=TejasLamba2006&repo=depdoctor&theme=dark&hide_border=true&title_color=7C3AED&text_color=c9d1d9)](https://github.com/TejasLamba2006/depdoctor)
-[![discord-lavalink](https://github-readme-stats.vercel.app/api/pin/?username=TejasLamba2006&repo=discord-lavalink&theme=dark&hide_border=true&title_color=7C3AED&text_color=c9d1d9)](https://github.com/TejasLamba2006/discord-lavalink)
-
-</div>
 
 **[depdoctor](https://github.com/TejasLamba2006/depdoctor)** checks which dependencies you can safely update. Handles npm, yarn, pnpm, and bun. Semantic versioning, major version warnings, the works. I got tired of doing this by hand so I wrote a tool for it.
 [![npm](https://img.shields.io/npm/dt/depdoctor?style=flat-square&color=7c3aed)](https://www.npmjs.com/package/depdoctor)
@@ -66,6 +61,17 @@ I run a decent chunk of my life on Minecraft servers. These are actually running
 - CodeSlayer 2k25, NIT Delhi. 1st place out of 10,000+ teams.
 - Smart India Hackathon. 2nd place.
 - Hack For Green Bharat. Grand finale at Microsoft.
+
+## Certifications
+
+<details>
+<summary>Click to expand</summary>
+
+- Cybersecurity: Threat Landscape, Foundations, Security Copilot (LinkedIn Learning)
+- HackerRank: JavaScript, Node.js
+- IBM: Project-based learning courses
+
+</details>
 
 ## Stats
 
@@ -101,6 +107,19 @@ Open source maintenance, hackathon culture, building tools I would actually use.
 [![LinkedIn](https://img.shields.io/badge/linkedin-tejaslamba-7c3aed?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejaslamba)
 
 </div>
+
+---
+
+```
+$ whoami
+tejas, backend + ai engineer
+
+$ currently
+building, shipping, learning
+
+$ status
+open to opportunities
+```
 
 <div align="center">
 
