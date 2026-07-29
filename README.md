@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=180&section=header&text=Tejas%20Lamba&fontColor=ffffff&fontSize=36&fontAlignY=38&desc=backend%20%2B%20ai%20engineer&descAlignY=58&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=180&section=header&text=Tejas%20Lamba&fontColor=ffffff&fontSize=36&fontAlignY=38&desc=Backend%20%2B%20AI%20Engineer&descAlignY=58&descSize=16)
 
 <div align="center">
 
@@ -67,17 +67,6 @@ I run a decent chunk of my life on Minecraft servers. These are actually running
 - Smart India Hackathon. 2nd place.
 - Hack For Green Bharat. Grand finale at Microsoft.
 
-## Certifications
-
-<details>
-<summary>Click to expand</summary>
-
-- Cybersecurity: Threat Landscape, Foundations, Security Copilot (LinkedIn Learning)
-- HackerRank: JavaScript, Node.js
-- IBM: Project-based learning courses
-
-</details>
-
 ## Stats
 
 <div align="center">
@@ -112,19 +101,6 @@ Open source maintenance, hackathon culture, building tools I would actually use.
 [![LinkedIn](https://img.shields.io/badge/linkedin-tejaslamba-7c3aed?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejaslamba)
 
 </div>
-
----
-
-```
-$ whoami
-tejas, backend + ai engineer
-
-$ currently
-building, shipping, learning
-
-$ status
-open to opportunities
-```
 
 <div align="center">
 
