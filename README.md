@@ -2,13 +2,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=520&lines=Backend+and+AI+engineer;Rust+evangelist+in+training;Minecraft+infra+nerd;I+ship+things+that+work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=520&lines=Backend+and+AI+engineer;Forward+Deployed+Engineer+%40+CallKaro;Reverse-engineering+AI+agent+runtimes;I+ship+things+that+work)](https://git.io/typing-svg)
 
 [![Profile views](https://komarev.com/ghpvc/?username=TejasLamba2006&color=7c3aed&style=flat-square&label=profile+views)](https://github.com/TejasLamba2006)
 
 </div>
 
-I build backend systems and AI tooling. Currently leading development at Rudescore, doing some time at JK Tech, and finishing a CS degree (AIML specialization, 8.6 CGPA, class of 2027).
+I build backend systems, edge AI pipelines, and developer tooling. Currently a Forward Deployed Engineer intern at CallKaro AI, building and debugging multilingual voice agents handling live calls in 20+ languages. Before that, I built embedded AI firmware on STM32U5 microcontrollers and real-time NPU computer vision pipelines on the STM32MP257 at STMicroelectronics, and shipped fintech backend APIs at Rudescore. Finishing a B.Tech in CSE (AI/ML specialization, 8.6 CGPA, class of 2027).
 
 I care more about knowing things deeply than having a long list of logos on my profile. That said, here are the logos.
 
@@ -16,15 +16,22 @@ I care more about knowing things deeply than having a long list of logos on my p
 
 <div align="center">
 
-[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org)
-[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org)
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
+[![Python](https://skillicons.dev/icons?i=py)](https://python.org)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
+[![C](https://skillicons.dev/icons?i=c)](https://en.cppreference.com/w/c)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
+[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
-[![Prisma](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io)
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
+[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org)
+[![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
+[![Prisma](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
@@ -33,6 +40,18 @@ I care more about knowing things deeply than having a long list of logos on my p
 
 ## Stuff I've built
 
+**[cc-context-diet](https://github.com/TejasLamba2006/cc-context-diet)** is a Bun PE binary patcher for Claude Code (`claude.exe`) that cuts Turn-1 prompt context bloat by 89% (from 211,672 down to 22,433 tokens) across 14 MCP servers and 454 skills without deleting a single plugin. Unpacks the embedded `.bun` modules and wires in client-side `ToolSearch` and `SkillSearch`.
+[![npm](https://img.shields.io/npm/dt/cc-context-diet?style=flat-square&color=7c3aed)](https://www.npmjs.com/package/cc-context-diet)
+
+**[cc-subagent-models](https://github.com/TejasLamba2006/cc-subagent-models)** patches Claude Code's `Agent` tool to unlock arbitrary gateway model IDs (OpenCode, DeepSeek, Qwen, GLM, Gemini) and per-call context window tags (`oc/exo-free[1m]`, `deepseek-reasoner[500k]`) so non-Claude subagents stop thrashing at the 200k autocompact fallback.
+[![npm](https://img.shields.io/npm/dt/cc-subagent-models?style=flat-square&color=7c3aed)](https://www.npmjs.com/package/cc-subagent-models)
+
+**[STM32 Edge NPU Vision & MLOps](https://github.com/TejasLamba2006/tic-tac-toe-yolo)** runs real-time YOLOv8n board perception on an STM32MP257F-DK 1.35 TOPS NPU (40.4 ms INT8 latency, 0.995 mAP@0.5, 100% cell accuracy across 449 test cells), paired with a resumable 11-stage MLOps dashboard for calibration, ST Edge AI Cloud compilation, and SSH board deployment.
+
+**[DiabetesGuard AI](https://github.com/TejasLamba2006/DiabetesGuard-AI)** is a clinical decision support system achieving 97.78% ROC-AUC with an XGBoost classifier, SHAP explainability, and a DeepSeek V3 + FAISS RAG pipeline over clinical literature.
+
+**[Lok Sabha Tracker](https://github.com/TejasLamba2006/lok-sabha-tracker)** is a daily LLM-verified accountability docket for all 543 Indian MPs, tracking attendance, questions asked, debates, and legislative activity.
+
 **[depdoctor](https://github.com/TejasLamba2006/depdoctor)** checks which dependencies you can safely update. Handles npm, yarn, pnpm, and bun. Semantic versioning, major version warnings, the works. I got tired of doing this by hand so I wrote a tool for it.
 [![npm](https://img.shields.io/npm/dt/depdoctor?style=flat-square&color=7c3aed)](https://www.npmjs.com/package/depdoctor)
 
@@ -40,10 +59,13 @@ I care more about knowing things deeply than having a long list of logos on my p
 
 **[PokeClassifier](https://github.com/TejasLamba2006/PokeClassfier)** analyzes your face and matches you with a Pokemon. Google Cloud Vision for expression detection, Gemini for personality inference. Has Stripe integration because someone asked for premium.
 
-**[northwind-gadgets-assistant](https://github.com/TejasLamba2006/northwind-gadgets-assistant)** is a dual-mode support chatbot. Routes questions to vector retrieval over policy PDFs or read-only SQL against orders, with streamed citations.
-
 **[musicxmatch-api](https://github.com/TejasLamba2006/musicxmatch-api)** is an npm wrapper for the MusixMatch API. Someone had to do it.
 [![npm](https://img.shields.io/npm/dt/musicxmatch-api?style=flat-square&color=7c3aed)](https://www.npmjs.com/package/musicxmatch-api)
+
+## Open source
+
+- **[9Router](https://github.com/decolua/9router)** (31.1k+ stars): Local multi-provider AI routing gateway and format translator. Contributed provider routing and tooling improvements.
+- **[Wurst7](https://github.com/Wurst-Imperium/Wurst7)** (1.1k+ stars): Feature and bugfix PRs to the Wurst Minecraft utility mod client.
 
 ## Minecraft stuff
 
@@ -58,7 +80,8 @@ I run a decent chunk of my life on Minecraft servers. These are actually running
 
 ## Awards
 
-- CodeSlayer 2k25, NIT Delhi. 1st place out of 10,000+ teams.
+- Fintechstico V7.0, NSUT Delhi (Consilium'26). 1st place out of 3,093 registrations (Two Strands: unified payment scam and loan default risk engine).
+- CodeSlayer 2k25, NIT Delhi. 1st place out of 10,562+ teams (Due Diligence Copilot on Pathway AI + FAISS).
 - Smart India Hackathon. 2nd place.
 - Hack For Green Bharat. Grand finale at Microsoft.
 
@@ -97,12 +120,13 @@ I run a decent chunk of my life on Minecraft servers. These are actually running
 
 ## What I'm into
 
-Open source maintenance, hackathon culture, building tools I would actually use. Currently exploring Rust for backend because the compiler is harsh but honest. Trying to get better at system design and actually understanding databases instead of just using them.
+Open source maintenance, hackathon culture, reverse-engineering runtimes, and building tools I actually use. Currently exploring Rust for backend because the compiler is harsh but honest, and digging deeper into system design and database internals.
 
 ## Get in touch
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/portfolio-tejaslamba.com-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://tejaslamba.com)
 [![Email](https://img.shields.io/badge/email-tejas22feb@gmail.com-7c3aed?style=flat-square&logo=gmail&logoColor=white)](mailto:tejas22feb@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-tejaslamba-7c3aed?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejaslamba)
 
@@ -115,10 +139,10 @@ $ whoami
 tejas, backend + ai engineer
 
 $ currently
-building, shipping, learning
+FDE intern @ CallKaro AI, building & shipping
 
 $ status
-open to opportunities
+open to backend & AI roles
 ```
 
 <div align="center">
