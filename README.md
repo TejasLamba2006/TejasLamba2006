@@ -64,8 +64,32 @@ I care more about knowing things deeply than having a long list of logos on my p
 
 ## Open source
 
-- **[9Router](https://github.com/decolua/9router)** (31.1k+ stars): Local multi-provider AI routing gateway and format translator. Contributed provider routing and tooling improvements.
-- **[Wurst7](https://github.com/Wurst-Imperium/Wurst7)** (1.1k+ stars): Feature and bugfix PRs to the Wurst Minecraft utility mod client.
+Recent upstream fixes and features across AI/ML infrastructure and developer tooling:
+
+**LLM inference and training**
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) (96k stars): Fixed Grafana dashboard latency panels reporting accumulated seconds instead of per-request means.
+- [huggingface/transformers](https://github.com/huggingface/transformers) (169k stars): Fixed Wav2Vec2CTCTokenizer dropping word delimiters around `<unk>` tokens.
+
+**Agent frameworks**
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) (50k stars): Hardened model-driven file writes against path traversal under `--yes-always`.
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) (39k stars): Fixed ChatAdapter.parse corrupting field values on indented headers.
+- [huggingface/smolagents](https://github.com/huggingface/smolagents) (30k stars): Prevented tool execution on rejected steps when `final_answer` is mixed with other calls.
+- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) (61k stars): Fixed stale FAQ anchor links after the Enterprise-to-AMP rename.
+
+**RAG and retrieval**
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (27k stars): Added danda sentence boundary support so Hindi, Marathi, and Bengali documents actually split into chunks.
+- [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) (5.6k stars): Multiple merged PRs across loopguard, toolprune, microskills, and Windows Python resolution.
+
+**SDKs and developer tools**
+- [google/adk-python](https://github.com/google/adk-python) (22k stars): Fixed `RestApiTool` dropping the `required` field after a JSON round-trip.
+- [microsoft/TypeChat](https://github.com/microsoft/TypeChat) (8.7k stars): Fixed nested null filtering with `stripNulls` and `__proto__` property preservation in generated object literals.
+- [simonw/llm](https://github.com/simonw/llm) (12.7k stars) and plugins: `--since` parameter, SSE response parsing, file pagination, cost exposure, cache preservation, YouTube URL detection, schema ref escaping.
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) (7k stars): Environment pagination, dependency status indicators, multivariate experiment locks, oversized value feedback, admin-only banners.
+- [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) (6k stars): Rendered page tool, default toolset narrowing, roadmap macro handler, base64 content support, task list simplification.
+
+**Previously**
+- [9Router](https://github.com/decolua/9router) (31k stars): Provider routing, session ID generation, classifier compatibility, and web search fallback.
+- [Wurst7](https://github.com/Wurst-Imperium/Wurst7) (1.1k stars): Feature and bugfix PRs.
 
 ## Minecraft stuff
 
@@ -120,7 +144,7 @@ I run a decent chunk of my life on Minecraft servers. These are actually running
 
 ## What I'm into
 
-Open source maintenance, hackathon culture, reverse-engineering runtimes, and building tools I actually use. Currently exploring Rust for backend because the compiler is harsh but honest, and digging deeper into system design and database internals.
+Open source maintenance, hackathon culture, reverse-engineering runtimes, and building tools I actually use. Lately I have been reading through AI agent runtimes and LLM tooling codebases, finding real bugs, and shipping fixes upstream. Currently exploring Rust for backend because the compiler is harsh but honest, and digging deeper into system design and database internals.
 
 ## Get in touch
 
