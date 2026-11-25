@@ -8,7 +8,7 @@
 
 </div>
 
-I build backend systems, edge AI pipelines, and developer tooling. Currently a Forward Deployed Engineer intern at CallKaro AI, building and debugging multilingual voice agents handling live calls in 20+ languages. Before that, I built embedded AI firmware on STM32U5 microcontrollers and real-time NPU computer vision pipelines on the STM32MP257 at STMicroelectronics, and shipped fintech backend APIs at Rudescore. Finishing a B.Tech in CSE (AI/ML specialization, 8.6 CGPA, class of 2027).
+I build backend systems, edge AI pipelines, and developer tooling. Currently a Forward Deployed Engineer intern at CallKaro AI, where I build and debug multilingual voice agents handling live calls in 20+ languages (awarded the CEO Spot Award in Nov 2026). Before that, I wrote embedded AI firmware on STM32U5 microcontrollers and real-time NPU computer vision pipelines on the STM32MP257 at STMicroelectronics, and shipped fintech backend APIs at Rudescore. Finishing a B.Tech in CSE (AI/ML specialization, class of 2027).
 
 I care more about knowing things deeply than having a long list of logos on my profile. That said, here are the logos.
 
@@ -40,6 +40,10 @@ I care more about knowing things deeply than having a long list of logos on my p
 
 ## Stuff I've built
 
+**[swarm-page-builder](https://github.com/TejasLamba2006/swarm-page-builder)** is a Claude Code skill and zero-dependency Shadow DOM engine that snapshots a live page and deploys multiplayer LLM cursors to redraw every box, border, text node, and image from a blank screen.
+
+**[Clementine](https://github.com/TejasLamba2006/clementine)** is a zero-click radial file converter and 29-tool offline AI/media suite written in pure Rust and Win32 (`~7.5 MB` RAM, no Electron or WebView2). Runs 275 format conversions, pure-Rust `tract-onnx` background removal, and offline WinRT OCR/redaction. Won the WeMakeDevs x Wispr Flow Challenge.
+
 **[cc-context-diet](https://github.com/TejasLamba2006/cc-context-diet)** is a Bun PE binary patcher for Claude Code (`claude.exe`) that cuts Turn-1 prompt context bloat by 89% (from 211,672 down to 22,433 tokens) across 14 MCP servers and 454 skills without deleting a single plugin. Unpacks the embedded `.bun` modules and wires in client-side `ToolSearch` and `SkillSearch`.
 [![npm](https://img.shields.io/npm/dt/cc-context-diet?style=flat-square&color=7c3aed)](https://www.npmjs.com/package/cc-context-diet)
 
@@ -64,32 +68,27 @@ I care more about knowing things deeply than having a long list of logos on my p
 
 ## Open source
 
-Recent upstream fixes and features across AI/ML infrastructure and developer tooling:
+Merged upstream fixes and features across AI/ML infrastructure, security, and developer tooling (60+ PRs merged in November 2026 alone):
 
-**LLM inference and training**
-- [vllm-project/vllm](https://github.com/vllm-project/vllm) (96k stars): Fixed Grafana dashboard latency panels reporting accumulated seconds instead of per-request means.
-- [huggingface/transformers](https://github.com/huggingface/transformers) (169k stars): Fixed Wav2Vec2CTCTokenizer dropping word delimiters around `<unk>` tokens.
-
-**Agent frameworks**
-- [Aider-AI/aider](https://github.com/Aider-AI/aider) (50k stars): Hardened model-driven file writes against path traversal under `--yes-always`.
-- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) (39k stars): Fixed ChatAdapter.parse corrupting field values on indented headers.
-- [huggingface/smolagents](https://github.com/huggingface/smolagents) (30k stars): Prevented tool execution on rejected steps when `final_answer` is mixed with other calls.
+**RAG, research, and agent runtimes (merged)**
+- [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) (9.7k stars): 20 merged PRs (plus 46 approved in queue) across downloader egress enforcement, toast/path secret redaction, multi-header `X-Real-IP` rate limiting, CSRF disconnect handling, SQLCipher rekey skip diagnostics, 34-engine cleanup invariants, and deterministic linear-scan tests.
+- [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) (8.1k stars): 10 merged PRs cutting 12,279 false loop-guard errors across 964 session traces, plus Hermes gateway/cron CWD isolation, JSONL tail-read filtering, `absent_tool` learning, and Windows launcher fixes.
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (27.1k stars): Added danda (`U+0964`, `U+0965`) sentence boundary support so Hindi, Marathi, and Bengali documents actually split into chunks.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) (61k stars): Fixed stale FAQ anchor links after the Enterprise-to-AMP rename.
 
-**RAG and retrieval**
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (27k stars): Added danda sentence boundary support so Hindi, Marathi, and Bengali documents actually split into chunks.
-- [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) (5.6k stars): Multiple merged PRs across loopguard, toolprune, microskills, and Windows Python resolution.
+**SDKs, CLIs, and MCP servers (merged)**
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) (23.7k stars): Rejected out-of-range `--port` CLI values outside `0-65535` up front.
+- [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) (4.1k stars): Added `diff_url` to `DiscussionWithDetails` and updated `hf discussions diff` to fetch it when inline diffs are omitted.
+- [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) (6.1k stars): Stripped raw Confluence macro parameter tags from exported Markdown.
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (3.5k stars): Fixed Shared Drive to My Drive root copies in `copy_drive_file`.
+- [haziqahmedqasmi/PeakCut](https://github.com/haziqahmedqasmi/PeakCut) (1.9k stars): 4 merged PRs covering Gemini model discovery filtering, speech-model download timeouts, live ingest slot leaks, and `X-Forwarded-For` IP spoofing.
+- [heymrun/heym](https://github.com/heymrun/heym) (1.8k stars), [BistaDinesh03/critique](https://github.com/BistaDinesh03/critique) (20 merged PRs), [pgalko/BambooAI](https://github.com/pgalko/BambooAI).
 
-**SDKs and developer tools**
-- [google/adk-python](https://github.com/google/adk-python) (22k stars): Fixed `RestApiTool` dropping the `required` field after a JSON round-trip.
-- [microsoft/TypeChat](https://github.com/microsoft/TypeChat) (8.7k stars): Fixed nested null filtering with `stripNulls` and `__proto__` property preservation in generated object literals.
-- [simonw/llm](https://github.com/simonw/llm) (12.7k stars) and plugins: `--since` parameter, SSE response parsing, file pagination, cost exposure, cache preservation, YouTube URL detection, schema ref escaping.
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) (7k stars): Environment pagination, dependency status indicators, multivariate experiment locks, oversized value feedback, admin-only banners.
-- [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) (6k stars): Rendered page tool, default toolset narrowing, roadmap macro handler, base64 content support, task list simplification.
+**Open PRs under review**
+- [vllm-project/vllm](https://github.com/vllm-project/vllm), [huggingface/transformers](https://github.com/huggingface/transformers), [Aider-AI/aider](https://github.com/Aider-AI/aider), [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy), [microsoft/TypeChat](https://github.com/microsoft/TypeChat), [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith), [payloadcms/payload](https://github.com/payloadcms/payload), [getsentry/sentry-python](https://github.com/getsentry/sentry-python), [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk), [dlt-hub/dlt](https://github.com/dlt-hub/dlt), [reflex-dev/reflex](https://github.com/reflex-dev/reflex), [sandbox-quantum/switch](https://github.com/sandbox-quantum/switch), [simonw/llm](https://github.com/simonw/llm), [decolua/9router](https://github.com/decolua/9router).
 
-**Previously**
-- [9Router](https://github.com/decolua/9router) (31k stars): Provider routing, session ID generation, classifier compatibility, and web search fallback.
-- [Wurst7](https://github.com/Wurst-Imperium/Wurst7) (1.1k stars): Feature and bugfix PRs.
+**Earlier**
+- [Wurst7](https://github.com/Wurst-Imperium/Wurst7) (1.4k stars): 4 merged feature and bugfix PRs.
 
 ## Minecraft stuff
 
@@ -104,6 +103,8 @@ I run a decent chunk of my life on Minecraft servers. These are actually running
 
 ## Awards
 
+- CallKaro AI CEO Spot Award ("Hacking Things Up", Nov 2026) for rapid voice-agent deployments and internal security engineering.
+- WeMakeDevs x Wispr Flow Challenge (Oct 2026). Winner ($100 daily prize) for Clementine.
 - Fintechstico V7.0, NSUT Delhi (Consilium'26). 1st place out of 3,093 registrations (Two Strands: unified payment scam and loan default risk engine).
 - CodeSlayer 2k25, NIT Delhi. 1st place out of 10,562+ teams (Due Diligence Copilot on Pathway AI + FAISS).
 - Smart India Hackathon. 2nd place.
@@ -150,7 +151,7 @@ Open source maintenance, hackathon culture, reverse-engineering runtimes, and bu
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/portfolio-tejaslamba.com-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://tejaslamba.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-tejas.is--a.dev-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://tejas.is-a.dev)
 [![Email](https://img.shields.io/badge/email-tejas22feb@gmail.com-7c3aed?style=flat-square&logo=gmail&logoColor=white)](mailto:tejas22feb@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-tejaslamba-7c3aed?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejaslamba)
 
